@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 3.2 Walk Away 2
+  m_EditorClassIdentifier: 
+  storyText: "Hard hearten Rick walks away. And guards execute the prisoners. With
+    no regrets whatsoever he goes to a nearby Armory shop and buys a new steel sword
+    for his mission.\nHe climbs over a building and on the top there was big cage
+    where pigeons were kept for communication between Assassins.\nHe pulls out a pigeon
+    and in its legs there was a note attached. He opens the note.\r\n\n\t(1) Read
+    the Note..."
+  nextStates:
+  - {fileID: 11400000, guid: c5cf4403a5cb21c41b4c660ef3b6f801, type: 2}

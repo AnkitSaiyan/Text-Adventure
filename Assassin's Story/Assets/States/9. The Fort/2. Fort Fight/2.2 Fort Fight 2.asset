@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 2.2 Fort Fight 2
+  m_EditorClassIdentifier: 
+  storyText: "Rick: I think i can fight my way in.\n\nRick draws his sword out and
+    head directly towards the Gate without fear.\r\n\nGuard: Step aside, bastard where
+    do you think you are going. Move!\r\nRick: I am going in!\r\n\nGuards instantly
+    attack him. He dodges, with his reflexes he counter kill all four guards. Patrol
+    guards start to run towards the Assassin to stop him. He knock them too. Rick
+    enters the Fort. There the 5 Elite guards attack him *Shouting stop the Assassin*.
+    Rick struggles alot but manage to knock 3 guards one runs for the reinforcement
+    and 5th guard fights him. He managed to kill him but then 3 Archers on the top
+    shoot arrows at him and Reinforces have arrived too.\r\nRick is in Trouble.\r\n\n\t(1)
+    Continue.... "
+  nextStates:
+  - {fileID: 11400000, guid: eed94f290059f00419a16fefb53a1d1f, type: 2}

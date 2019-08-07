@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1. The Tower
+  m_EditorClassIdentifier: 
+  storyText: "There was an Assassin name in Rome, his name was Rick. This is his story.\r\n\nRick
+    is standing on the top of a Bell Tower 70ft high. Down on the street there is
+    a Haystack hardy visible from above. Eagle is making its sound. He must take the
+    Leap of Faith!\n\r\n\t(1) Take the Leap of Faith (Brave)\r\n\t(2) Get down through
+    stairs (Afraid)"
+  nextStates:
+  - {fileID: 11400000, guid: ce63b98a467998a489da5a7ba085baf3, type: 2}
+  - {fileID: 11400000, guid: 303798276e6f2d14e8e5d69217ee71a1, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 3.2.1 Find The Mission 2.1
+  m_EditorClassIdentifier: 
+  storyText: "After saving the innocent people Rick found his way to the nearby Armory
+    shop and buys a new steel sword for his mission. I will try to use it as less
+    as possible.\r\n\nHe climbs over a building and on the top there was a big cage
+    where pigeons were kept for communication between Assassins.\n\nHe pulls out a
+    pigeon and in its legs there was a note attached. He opens the note.\n\n\t(1)
+    Read the Note..."
+  nextStates:
+  - {fileID: 11400000, guid: c5cf4403a5cb21c41b4c660ef3b6f801, type: 2}

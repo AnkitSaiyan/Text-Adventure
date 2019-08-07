@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 4.1 The Note 1.1
+  m_EditorClassIdentifier: 
+  storyText: "[ Rick, if your are reading it, this is Kenway, our Headquarter was
+    raided by the oppositions political preachers. They emprisoned them Assassin brothers
+    in a far East highly fortified Fort of Italy. You have to save them. This is about
+    brotherhood. I'd managed to escape and will meet you near the Fort. We have to
+    complete this mission otherwise world will fall in the wrong hands. ] - I gotta
+    go and help them.\r\n\n\t(1) I have to buy some Armor.\r\n\t(2) I am fine without
+    it."
+  nextStates:
+  - {fileID: 11400000, guid: abd461207e58fea4d95a5495c7cc633d, type: 2}
+  - {fileID: 11400000, guid: 5340bae09cf232947ae3f90560b12446, type: 2}

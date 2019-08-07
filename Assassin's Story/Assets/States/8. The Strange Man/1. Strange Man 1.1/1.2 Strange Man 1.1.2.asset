@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.2 Strange Man 1.1.2
+  m_EditorClassIdentifier: 
+  storyText: "Finally I am here that looks like the Fort I am heading to. I need to
+    be careful now lots of guards are patrolling. I need to find a way to sneak inside.\r\n\nStrange
+    Man *approaches from behind*: You didn't take the leap of faith!\r\nRick: You
+    are the man from the tower! Who are you? What do you want?\r\nStrange Man: Who
+    am I is not your concern. And you should not have had come here!\r\nRick: What..?\r\nStrange
+    Man: Take my advice don't trust anyone. And return me the woman's money.\r\nRick:
+    How do you know all this? Nevermind, take it. *Rick looks away* Great, some guards
+    are coming this way. I gotta hide. Where did he go...\r\n\n\t(1) Continue.... "
+  nextStates:
+  - {fileID: 11400000, guid: 207a58e6224946d45b1d72f0a2e56607, type: 2}

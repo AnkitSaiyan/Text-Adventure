@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.2 Stairs
+  m_EditorClassIdentifier: 
+  storyText: "Going down through stairs, A man saw him coming down. \r\n\nMan: What
+    are you doing here?\r\nRick: None of your business.\r\nMan: I know who you are,
+    Assassin.\r\n*Rick stops & stares at the man*\r\nMan: You didn't take the leap.
+    You must find your fear.\r\nRick:\r\n\n\t(1) Take advice, go back & take the leap!\r\n\t(2)
+    I am not afraid of fear. *Walks Out*"
+  nextStates:
+  - {fileID: 11400000, guid: ce63b98a467998a489da5a7ba085baf3, type: 2}
+  - {fileID: 11400000, guid: 774b782fbc06dba4dbe8f472757f5778, type: 2}

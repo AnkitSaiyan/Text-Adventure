@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.1 Chase 1.1.1
+  m_EditorClassIdentifier: 
+  storyText: "Rick instantly takes the leap of faith and started chasing the thief.
+    He  went through shortcuts and tried catching the thief before he runs away. He
+    jumped through several walls, chased through the streets, between the crowds.\nHe
+    finally managed to catch the thief.\n\nRick: You are a one tough bastard to catch.
+    Now return the woman's money and never return to my sight again or I'll kill you!\n\nScared
+    to his nerves thief returned the money and Rick let him go.\n\r\n\t(1) Return
+    the money to the woman.\r\n\t(2) Keep it as the charge for trouble."
+  nextStates:
+  - {fileID: 11400000, guid: 7981d4e87cfc2f441b94343192489ed4, type: 2}
+  - {fileID: 11400000, guid: 083caa944b8a53942887ce2d51f64ca8, type: 2}

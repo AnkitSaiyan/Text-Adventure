@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.4 Buy Armor 2.2
+  m_EditorClassIdentifier: 
+  storyText: "Rick going towards an Armory.\r\n\nRick: I need a Chest plate Armor
+    \ which can not be pierced.\r\nArmor-smith: You have come to the right place,
+    sir. I have every kind of armor. From chest to legs. Helmets to shoulder. I also
+    have a Chain-Mail set.\r\nRick: I need something light and strong which will not
+    affect my speed.\r\nArmor-smith: This one is right for you.\r\n\nRick buys the
+    armor and wield it. \r\n\r\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 1ed416f4fced6674fa6b3fe013c7ab7c, type: 2}

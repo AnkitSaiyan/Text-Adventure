@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 10.3 Unfortunate
+  m_EditorClassIdentifier: 
+  storyText: "\t\n\t\t\t\t\tAll the arrows pierced his chest and he falls down in
+    pain.\r\nRick (in Pain): Arrrr... Dammit! I can not die now the whole Assassin
+    Brotherhood depends upon me. I can not fight any more.....\r\n\t\t\t\t\t\t\tAfter
+    struggling for his life he dies!\r\n\r\n          \t\t\t\t\t\t\t\t!!GAME OVER!!\n\t\t\t_____________________________________________________________________________\n\t\t\tDo
+    you want to Play Again?\n\t\t\t(1) Yes, let me make it right!\n\t\t\t(2) No, let
+    me be for a while.\n"
+  nextStates:
+  - {fileID: 11400000, guid: 43e6465465408cb4bb122d530a595856, type: 2}
+  - {fileID: 11400000, guid: 7641e99615001d44cb1792be1e22927d, type: 2}

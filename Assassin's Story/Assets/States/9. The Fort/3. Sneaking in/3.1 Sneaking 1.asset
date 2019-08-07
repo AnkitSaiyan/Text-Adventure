@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 3.1 Sneaking 1
+  m_EditorClassIdentifier: 
+  storyText: "Rick: I think it would be wiser to keep low profile. I will swim to
+    the back of the Fort and try climbing the wall.\r\n\nHe then started swimming
+    underwater to avoid all the guards. He managed to reach at the back side. He saw
+    guards were patrolling on the dock behind and on the roof top as well. He hid
+    in the rocks and started climbing as he found the opening.\nHe reached at a window,
+    there was guard inside that thin Tower which was attached with the Fort. He Assassinated
+    the guard using is hidden blades and pulled him out of the window. The guard fell
+    down in the sea.\r\nHe then climbed inside the window.\n\n\t(1) Continue.... "
+  nextStates:
+  - {fileID: 11400000, guid: 7aceef843f448db4abb965bd0ab18781, type: 2}

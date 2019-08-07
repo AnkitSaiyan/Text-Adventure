@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 4.2 The Gate 1
+  m_EditorClassIdentifier: 
+  storyText: "Guard: Hey you, what's your business here!\r\nRick: I am here to sell
+    some good potions to the Master.\r\nGuard: Nobody called you. Sell them to someone
+    else.\r\nRick: Master will be angry. You can go ask them.\r\nGuard: Wait, hey
+    you scumbag go ask if master asked for a Merchant.\r\nOther Guard: I am busy here,
+    you can move your lazy ass and ask yourself. Let him in what harm he can do...\r\nGuard:
+    I will need to take your swords and blades. You don't need them inside.\r\n\r\n\t(1)
+    Continue..,\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: b6505927d2e19674d883acd19bf05053, type: 2}

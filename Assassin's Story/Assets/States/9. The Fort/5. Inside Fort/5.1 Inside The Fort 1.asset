@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 5.1 Inside The Fort 1
+  m_EditorClassIdentifier: 
+  storyText: "Rick then sneaked inside carefully. There were lots of guards inside.
+    He tried his best to get inside undetected.\n\nHe moved further in, assassinating
+    alone guards and hiding them in haystacks or throwing them of the wall.\r\n\nHe
+    entered inside the Hall way...\r\n\r\nRick: I feel like something ain't right.\r\n\r\nHe
+    heard someone talking...\r\n\n\t(1) Continue.... "
+  nextStates:
+  - {fileID: 11400000, guid: 3aadeb59dece34744a4bda02dfbf4ea2, type: 2}

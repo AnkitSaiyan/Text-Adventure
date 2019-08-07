@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.2 Open Conflict 2
+  m_EditorClassIdentifier: 
+  storyText: "Assassin rushing towards the city guards pushing through the crowd.
+    Guards are going to execute the prisoners. Suddenly, Rick jumps out of the crowd
+    with his Hidden Blade and assassinates a guard.\nPeople panicked & started running
+    here and there shouting *Assassin! Assassin!*\r\nAll the guards rushes towards
+    the Nick...\r\n\n\t(1) Fight them hand-to-hand!\r\n\t(2) Smoke Screen & free the
+    prisoners!"
+  nextStates:
+  - {fileID: 11400000, guid: 78f30a28bfc84c44f89060dc12b3e05b, type: 2}
+  - {fileID: 11400000, guid: 6ec689d4c74649944a4faf59069a3077, type: 2}

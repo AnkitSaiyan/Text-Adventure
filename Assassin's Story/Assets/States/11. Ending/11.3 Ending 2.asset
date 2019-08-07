@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 11.3 Ending 2
+  m_EditorClassIdentifier: 
+  storyText: "[ Rick dies ]\r\n\nBut Kenway too got Paralyzed from the power of Artifact.\r\n\nArtifact
+    self destructed somehow maybe becasue Kenway consumed it too much.\nWhen Artifact
+    exploded it took the whole Fort with it!\r\nThe people panicked with fear. What
+    is this calamity!? Disaster! They startyed shouting... Some guards managed to
+    escape but some with hard luck died with the Fort.\n\r\nThis is how Rick saved
+    the world from Kenway. His sacrifice will always be remembered. This also ended
+    the Assassin's line forever.\n\t\n\t\t\t\t\t\t\t\t\t\t\t       THE END\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t
+    \   Press 1 to Play Again!"
+  nextStates:
+  - {fileID: 11400000, guid: 43e6465465408cb4bb122d530a595856, type: 2}

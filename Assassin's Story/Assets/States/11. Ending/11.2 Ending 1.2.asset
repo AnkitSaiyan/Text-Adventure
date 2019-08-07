@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 11.2 Ending 1.2
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t[ Kenway dies! ]\r\n\r\n\tRick
+    used the dagger to  destroy the the Artifact so that it will never fall in the
+    wrong hands again.\r\n\t\t\tThis is how the Assassin Rick saved the world on this
+    greatest mission.\n\n\n\t\t\t\t\t\t\t\t\t         THE END\n\n\t\t\t\t\t\t\t\t
+    \     Press 1 to Play Again!"
+  nextStates:
+  - {fileID: 11400000, guid: 43e6465465408cb4bb122d530a595856, type: 2}

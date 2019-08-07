@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.3 Hall 3
+  m_EditorClassIdentifier: 
+  storyText: "Rick then sneaked inside the hall. He saw there a strange man with black
+    hoodie talking to a Guard. And then Guard walked out.\r\n\nMan: Don't linger in
+    shadows. Come out!\r\nRick: Who are you!?\r\nMan: See for yourself! *Removes the
+    hood*\r\nRick: What the... Kenway! What are you doing here and where are all the
+    Assassins!?\r\nKenway: Hahahaha!\r\nRick: You bastard! You lied to me about all
+    the thing.\r\nKenway: I didn't lie about one thing. Brotherhood was attacked though
+    it was me who killed them all. You were not there so I had to lure you in.\r\nRick:
+    You.... *Raged*\r\n\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 268cd9a2dbafe7a47959ff25410a2151, type: 2}

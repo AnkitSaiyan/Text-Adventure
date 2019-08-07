@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 7.1 The Guards 1.1
+  m_EditorClassIdentifier: 
+  storyText: "Rick: I spent a lot of my time here, now I should hurry before it's
+    too late.\n\nRick: Damn! Guards are coming this way. \n\nPatrolling guards saw
+    him.\r\n\nGuard 1: He is the Assassin!\r\n\n*All 4 guards rushed towards him*\r\n\nRick:
+    Great, I should've had killed them before when I had the chance. I don't have
+    any smoke grenade.\r\n\r\n\t(1) Fight the Guards\r\n\t(2) Surrender"
+  nextStates:
+  - {fileID: 11400000, guid: f5459faf605fc914eaec2d8ac6e8aca9, type: 2}
+  - {fileID: 11400000, guid: 02b15b98d24e1ae40b9586647f3776e1, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 7.1.1 Fight 1.1
+  m_EditorClassIdentifier: 
+  storyText: "Rick drew out his sword that he had bought. He parried every single
+    enemy attack. Fight went on for only some seconds. With his quick reflexes he
+    stunned all the guards. Assassinated every single one of them.\r\n\nI have wasted
+    a lot of my time here I must reach the Fort. I have no time left.\n\nHe cleaned
+    his sword and continued to the Fort.\r\n\r\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: b4bc373c407de8a48a7663d9005becf4, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.3.1 With Armor 2.1
+  m_EditorClassIdentifier: 
+  storyText: "After purchasing the Armor he runs his way through the streets, jumping
+    over the buildings, parkouring through the obstacles. \nWhile watching though
+    the viewpoint suddenly something catches his eyes.\r\n\nA thief stole a pouch
+    from a woman in the street and running away. Woman shouting, \"Help! Help! Thief
+    stole my money!\r\"\n\nI gotta do something...\r\n\n\t(1) Catch the thief!\r\n\t(2)
+    No Time. Continue to the Mission."
+  nextStates:
+  - {fileID: 11400000, guid: 6a09eb69adce4fd45948aa55fb5d7526, type: 2}
+  - {fileID: 11400000, guid: ea959412937b90c4ab3f648947865e48, type: 2}

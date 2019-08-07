@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 6.4 The Talk 4
+  m_EditorClassIdentifier: 
+  storyText: "He heard two guards talking...\r\n\nGuard 1: You know the Master has
+    found the Artifact.\r\nGuard 2: Reall? That will make him rule the world!\r\nGuard
+    1: Who gives the shit about the world, hahaha.\r\nGuard 2: You know Master was
+    an Assassin.\r\nGuard 1: Yeah, I am aware but he is with the Government now.\r\nGuard
+    2: For how long given he has the Artifact now he can do anything he wants.\r\nGuard
+    1: Don't worry you scum!\r\nGuard 2: If I had that in my hand I would kill you
+    first hahaha.\n\r\r\n*Rick thinking* : What Assassin could they be talkin' about,
+    I gotta find out!\r\n\r\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 01d94d6b8a2f180409a45f2b8f1ae657, type: 2}

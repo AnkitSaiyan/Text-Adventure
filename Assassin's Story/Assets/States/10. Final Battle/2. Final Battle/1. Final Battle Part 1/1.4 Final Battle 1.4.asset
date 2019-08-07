@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.4 Final Battle 1.4
+  m_EditorClassIdentifier: 
+  storyText: "Rick: How could you do that!?\r\nKenway: What will you do? You don't
+    even have a weapon.\r\n\nRick took out his Dagger.\r\n\nEnway: This is... This
+    is an Ancient Artifact... A Dagger. Where did you get it from?\r\n\nRick: It doesn't
+    matter because you are going to die soon.\r\n\nKenway in anger charged on him.\r\nRick
+    started attacking sharp with his dagger and landing several wounds on the Kenway.\r\n\nKenway:
+    These small wounds are nothing.\r\n\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 31d9ca2b9bd3251469f990c44f51e4da, type: 2}

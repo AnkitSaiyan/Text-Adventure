@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.6 Chase 2.1.2
+  m_EditorClassIdentifier: 
+  storyText: "Rick instantly takes the leap of faith and started chasing the thief.
+    He  went through shortcuts and tried catching the thief before he runs away. He
+    jumped through several walls, chased through the streets, between the crowds.\n\nHe
+    started sweating heavily and the thief was running away. The weight of armor couldn't
+    let him run faster and thief escaped.\n\nWith the great regret of not been able
+    to help the woman he continues to his mission. \r\n\n\t(1) Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: ea959412937b90c4ab3f648947865e48, type: 2}

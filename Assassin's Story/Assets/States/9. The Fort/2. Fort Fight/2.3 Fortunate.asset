@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 2.3 Fortunate
+  m_EditorClassIdentifier: 
+  storyText: "All the arrows hit his chest armor and couldn't penetrate. Armor saved
+    Rick's life.\nFilled with rage he started giving heavy blows to the enemies and
+    took cover where Archers couldn't reach him.\nHe started running to shake the
+    guards off.\r\nHe managed to escape some guards. He started Sneaking in more to
+    find the emprisoned Assassins.\nGuards started looking for him.\r\n\nRick: I feel
+    like something's not good!\r\n\nHe heard someone talking in Hall way...\r\n\r\n\t(1)
+    Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: ed7ddb5401abdab4a9caa32468b59ac2, type: 2}

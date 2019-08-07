@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 3.2 Strange Man 2.1.2
+  m_EditorClassIdentifier: 
+  storyText: "Finally I am here that looks like the Fort I am heading to. I need to
+    be careful now lots of guards are patrolling. I need to find a way to sneak inside.\r\n\nStrange
+    Man *approaches from behind*: You took the leap of faith! You are brave. You could've
+    helped the woman.\r\nRick: Who are you? What do you want?\r\nStrange Man: Who
+    am I is not your concern. You can not sneak in without distraction.\r\nRick: What..?\r\nStrange
+    Man: Take my advice don't trust anyone.\r\nRick: What are you talking about? *Rick
+    looks away* Great, some guards are coming this way. I gotta hide. Where did he
+    go...\r\n\n\t(1) Continue.... "
+  nextStates:
+  - {fileID: 11400000, guid: 207a58e6224946d45b1d72f0a2e56607, type: 2}

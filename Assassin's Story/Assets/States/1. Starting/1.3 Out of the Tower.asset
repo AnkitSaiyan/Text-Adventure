@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79437ad1f65340040ae61b31996805ce, type: 3}
+  m_Name: 1.3 Out of the Tower
+  m_EditorClassIdentifier: 
+  storyText: "Coming out of Tower Assassin Rick started his journey with the thought
+    of that strange man. Wandering through streets he sees people doing their businesses,
+    hanging around, Merchants are selling, kids are playing.\n\nFar there he noticed
+    a crowd gathered near a stage. He rushes towards the crowd to see what's going
+    on. He then sees guards are executing innocents publicly on the stage.\r\n\n\t(1)
+    Rush to open conflict, save the innocents.\r\n\t(2) I don't care, walk away."
+  nextStates:
+  - {fileID: 11400000, guid: 87b3945ec012eee42b4f0bdd517ac8c5, type: 2}
+  - {fileID: 11400000, guid: 58e2f2ab86974b54ba4ade6ce8dff2a6, type: 2}
