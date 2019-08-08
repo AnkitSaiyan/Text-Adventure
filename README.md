@@ -5,9 +5,9 @@ Text Adventure Games are choice based game. Choices you make will alter the game
 [Update 1]
 
 Issue#1:
-Console Error resolved using for loop
+[Resolved] Console Error resolved using for loop
 
 [Update 2]
 
 Issue#2:
-Quit Functionality added
+[Resolved] Quit Functionality added
