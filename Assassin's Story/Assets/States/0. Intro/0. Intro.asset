@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "\n\t\t\t\t\t\t\t\tWelcome to this Game.\n\nThis game works on choices
     you make. On every stage you will be asked to make a choice. The option you have
-    to choose using your keyboard number will alter the story. Beware! And Enjoy!\n\n\t\t\t\t\t\tTo
-    quit the game at any point press \"Q\" or \"E\".\n\n\t\t\t\t\t    \t\t\tPress
+    to choose using your keyboard number will alter the story. Beware! And Enjoy!\n\n\t\t\t\t\t\t
+    \  To quit the game at any point press \"Esc\".\n\n\t\t\t\t\t    \t\t        Press
     \"S\" to Start the Game"
   nextStates:
   - {fileID: 11400000, guid: 43e6465465408cb4bb122d530a595856, type: 2}
